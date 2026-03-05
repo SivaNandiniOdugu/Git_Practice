@@ -123,3 +123,28 @@ git diff
 **Screenshot**
 ![git clone](screenshots\Gitdiff.png)
 
+
+## 12. git diff
+**Syntax**
+git diff
+**purpose:**
+Shows differences between working directory and last commit.
+**Example**
+git diff
+
+**Screenshot**
+![git clone](screenshots\Gitdiff.png)
+
+
+## 12. git diff
+**Syntax**
+git diff
+**purpose:**
+Shows differences between working directory and last commit.
+**Example**
+git diff
+
+**Screenshot**
+![git clone](screenshots\Gitdiff.png)
+
+
